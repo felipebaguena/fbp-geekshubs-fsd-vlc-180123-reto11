@@ -19,3 +19,17 @@ td {
 .row2 {
     background-color: rgb(76, 178, 144);
 }
+
+#row3 {
+    background-color: rgb(76, 178, 144);
+    padding-right: 60px;
+}
+
+.newpad {
+    padding-right: 60px;
+
+}
+
+.euro {
+text-align: center;
+}
